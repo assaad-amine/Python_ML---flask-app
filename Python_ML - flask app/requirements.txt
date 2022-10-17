@@ -1,0 +1,10 @@
+Python
+pandas
+flask
+flask_bootstrap
+flask_uploads
+werkzeug.utils
+os
+datetime
+time
+sklearn
